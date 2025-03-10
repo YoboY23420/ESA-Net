@@ -1,5 +1,5 @@
 # ESA-Net
-__"A Parameter-efficient Exploratory Self-Adjustment Network with Deformable 3D Convolution for Unsupervised Medical Image Registration"__ is submitted to the journal of IEEE Transactions on Medical Imaging.
+__"A Parameter-efficient Exploratory Self-Adjustment Network with Deformable 3D Convolution for Unsupervised Medical Image Registration"__ has been submitted to the journal of IEEE Transactions on Medical Imaging.
 # Important References
 1. (Original Paper of DCN) Deformable convolutional networks, 2017, ICCV.
    Paper Link: Dai J, Qi H, Xiong Y, et al. Deformable convolutional networks[C]//Proceedings of the IEEE international conference on computer vision. 2017: 764-773.
