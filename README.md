@@ -1,5 +1,5 @@
 # ESR-Net
-__"A Parameter-efficient Exploratory Self-Refinement Network for Unsupervised Medical Image Registration"__ has been submitted to the journal of IEEE Transactions on Medical Imaging.
+__"ESR-Net: A Parameter-efficient and Motion-aware Exploratory Self-Refinement Network for Unsupervised 3D Medical Image Registration"__ has been submitted to the journal of IEEE Transactions on Medical Imaging.
 
 # Important References
 1. (Original Paper of DCN) Deformable convolutional networks, 2017, ICCV.
