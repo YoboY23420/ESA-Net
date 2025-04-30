@@ -1,5 +1,5 @@
 # ESR-Net
-__"ESR-Net: A Parameter-efficient and Motion-aware Exploratory Self-Refinement Network for Unsupervised 3D Brain MRI Registration"__ has been submitted to Pattern Recognition for the consideration of publication.
+__"A Parameter-efficient and Motion-aware Exploratory Self-Refinement Network for 3D Brain MRI Registration"__ has been submitted to Pattern Recognition for the consideration of publication.
 
 # Important References
 1. (Original Paper of DCN) Deformable convolutional networks, 2017, ICCV.
